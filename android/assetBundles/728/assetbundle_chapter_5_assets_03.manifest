@@ -1,0 +1,78 @@
+ManifestFileVersion: 0
+CRC: 416815277
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b73786f56e8df7294a8048a9dd797e7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75b582990c09bc8c1388a35f9fb5015f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4b73786f56e8df7294a8048a9dd797e7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 867e6b83609374e49a4d516850afb0a9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d1665c9e4410d904e85fc8532040700d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e8f764eaff651e942973f6a2a98f05e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8ca5b4a5124a8a44da05eee042bb38d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a76246650582ad48b45277e745025aa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 878958ba1e46cf94ebf12a721049de3e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e932b06bc634dc745ad6b7986d60f73e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2b209218b0636bd489d3b40b5d998d98, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Texture/InBundle/Level_48_Full_Texture_NormalMap.jpg
+- Assets/Texture/InBundle/Level_47_Full_Texture_NormalMap.jpg
+- Assets/Texture/InBundle/Level_49_Full_Texture_NormalMap.jpg
+- Assets/Prefabs/Play_Tools/Tricks/Cannons/cannon_wheel.prefab
+- Assets/Prefabs/Levels_Particles/Levels_Snow.prefab
+Dependencies:
+- C:/wamp64/www/TheEgg/AssetBundles/Android/assetbundle_audio_01
+- C:/wamp64/www/TheEgg/AssetBundles/Android/assetbundle_audio_02
+- C:/wamp64/www/TheEgg/AssetBundles/Android/assetbundle_chapter_5_assets_01
+- C:/wamp64/www/TheEgg/AssetBundles/Android/assetbundle_materials
+- C:/wamp64/www/TheEgg/AssetBundles/Android/assetbundle_models_01
+- C:/wamp64/www/TheEgg/AssetBundles/Android/assetbundle_prefabs
