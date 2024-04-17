@@ -1,0 +1,140 @@
+ManifestFileVersion: 0
+CRC: 4046806476
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3fdcafd8fc84b46bf93dd1476680cd1b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5235719d58dcc88101e806a8f8d77dca
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3fdcafd8fc84b46bf93dd1476680cd1b
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Materials/InBundle/Num_8_Mat.mat
+- Assets/Materials/InBundle/Physics_Materials/Bouncy.physicMaterial
+- Assets/Materials/InBundle/ParticleFirecloud.mat
+- Assets/Materials/InBundle/The_Castle_Mat_Blender.mat
+- Assets/Materials/InBundle/Chapter_4_Skybox.mat
+- Assets/Materials/InBundle/Physics_Materials/Bouncy_For_Ice_Cube.physicMaterial
+- Assets/Materials/InBundle/Fluid_Mat_Mobile.mat
+- Assets/Materials/InBundle/WorldMap_Skybox.mat
+- Assets/Models/Materials/White_Mobile.mat
+- Assets/Materials/InBundle/ParticleFireball.mat
+- Assets/Materials/InBundle/Num_6_Mat.mat
+- Assets/Materials/InBundle/Circle_Blocker_1_Mat.mat
+- Assets/Materials/InBundle/Num_1_Mat.mat
+- Assets/Materials/InBundle/Cannon_1_NonRotational.mat
+- Assets/Materials/InBundle/WaterPlaneMaterial.mat
+- Assets/Materials/InBundle/Num_3_Mat.mat
+- Assets/Materials/InBundle/The_Egg_Material_Normal.mat
+- Assets/Materials/InBundle/Cannon_2_Manual_Firing.mat
+- Assets/Materials/InBundle/Skyboxes/Overclouds_Skybox.mat
+- Assets/Materials/InBundle/brown.mat
+- Assets/Materials/InBundle/The_Egg_Material_Snowy.mat
+- Assets/Materials/InBundle/Chapter_3_Skybox.mat
+- Assets/Materials/InBundle/Air_Blower_Mobile.mat
+- Assets/Materials/InBundle/Cannon_Wheel_Cannon_Holder.mat
+- Assets/Materials/InBundle/Star_Frame_Mat_mobile.mat
+- Assets/Materials/InBundle/ParticleSpark.mat
+- Assets/Materials/InBundle/Cannon_1_Rotational.mat
+- Assets/Materials/InBundle/Physics_Materials/Metalic.physicMaterial
+- Assets/Materials/InBundle/ParticleSmokeVertlit.mat
+- Assets/Mirza Beig/Particle Twister/_materials/VFX Particle Pack/particles/sprites/mat_vfxpp_particle_sprite_smokelet_Dusty.mat
+- Assets/Materials/InBundle/Crasher_1_Mat.mat
+- Assets/Materials/InBundle/Num_5_Mat.mat
+- Assets/Materials/InBundle/Cannon_2_Body.mat
+- Assets/Materials/InBundle/ParticleSpray.mat
+- Assets/Materials/InBundle/Physics_Materials/Very_Bouncy.physicMaterial
+- Assets/Materials/InBundle/Torus_1_Mat.mat
+- Assets/Materials/InBundle/ParticleGlow.mat
+- Assets/Materials/InBundle/Piereced_Blocker_1_Mat.mat
+- Assets/Models/Materials/Curved_Pipe.mat
+- Assets/Materials/InBundle/Skyboxes/OverClouds.mat
+- Assets/Materials/InBundle/mat_vfxpp_particle_sprite_smokelet_Dusty_Sharp-Mobile.mat
+- Assets/Materials/InBundle/Physics_Materials/VeryVery_Bouncy.physicMaterial
+- Assets/Materials/InBundle/Physics_Materials/Default.physicMaterial
+- Assets/Materials/InBundle/ParticleSteamMobile.mat
+- Assets/Materials/InBundle/Skyboxes/OverClouds_Burned.mat
+- Assets/Materials/InBundle/The_Egg_Material_Fire.mat
+- Assets/Models/Materials/SinglePin_HorizontalCircle_Mat_Color2.mat
+- Assets/Models/Materials/Switch_Button_Head.mat
+- Assets/Materials/InBundle/FreezeCrack.mat
+- Assets/Materials/Colors/Purble - Dark - Mobile.mat
+- Assets/Materials/InBundle/Num_2_Mat.mat
+- Assets/Materials/InBundle/Pierce_Blocker_2_Mat.mat
+- Assets/Materials/InBundle/Cannon_1_HoldToRotate.mat
+- Assets/Materials/InBundle/Tornado_Repeller_Mat.mat
+- Assets/Materials/InBundle/WaterProNighttime.mat
+- Assets/Materials/InBundle/EmptyStar_Mat.mat
+- Assets/Materials/InBundle/ParticleFirework.mat
+- Assets/Materials/InBundle/WaterProDaytime.mat
+- Assets/Materials/InBundle/IceCube_Mobile.mat
+- Assets/Materials/InBundle/The_Egg_Texture.mat
+- Assets/Materials/InBundle/ParticleWaterSpray.mat
+- Assets/Materials/InBundle/Vertical_Circle_Blocker_1_Color_1_Mat.mat
+- Assets/Materials/InBundle/Terrain_1_Mat.mat
+- Assets/Materials/InBundle/Green - Mobile.mat
+- Assets/Materials/InBundle/Vertical_Circle_Blocker_2_Color_1_Mat.mat
+- Assets/Materials/InBundle/Switch_Button_Small_1_Mat.mat
+- Assets/Materials/InBundle/Num_0_Mat.mat
+- Assets/Materials/InBundle/Num_4_Mat.mat
+- Assets/Materials/InBundle/ParticleSmokeMobile.mat
+- Assets/Materials/InBundle/Cannon_2_Base_mobile.mat
+- Assets/Materials/InBundle/Shell_Mat_Mobile.mat
+- Assets/Materials/InBundle/Gray.mat
+- Assets/Materials/InBundle/Mat_FxSnow_Mobile.mat
+- Assets/Materials/Colors/Orange - Mobile.mat
+- Assets/Materials/InBundle/Box_1_Full_Mat.mat
+- Assets/Materials/InBundle/ParticleSplashes.mat
+- Assets/Materials/InBundle/ParticleAfterburner.mat
+- Assets/Models/Materials/Switch_Button_Base.mat
+- Assets/Materials/InBundle/pathMesh_Mat1.mat
+- Assets/Materials/InBundle/Housing.mat
+- Assets/Materials/InBundle/OverClouds_Burned.mat
+- Assets/Materials/InBundle/Star_Mat.mat
+- Assets/Materials/InBundle/The_Bowl_On_Fire_Mobile.mat
+- Assets/Materials/InBundle/Num_9_Mat.mat
+- Assets/Materials/InBundle/Default_Particles_Mobile.mat
+- Assets/Materials/InBundle/mat_vfxpp_particle_spritesheet_smoke.mat
+- Assets/Models/Materials/Chapterlock_Full_Mat.mat
+- Assets/Materials/InBundle/Num_7_Mat.mat
+- Assets/Materials/InBundle/Chapter_1_Skybox.mat
+- Assets/Materials/Colors/Orange - Transparent.mat
+- Assets/Materials/InBundle/Health_Gage_Material.mat
+- Assets/Materials/InBundle/The_Bowl_Mobile.mat
+- Assets/Materials/InBundle/Chapter_5_Skybox.mat
+- Assets/Materials/InBundle/ParticleFlameLicks.mat
+- Assets/Materials/InBundle/The_Bowl_Mobile_Color2.mat
+- Assets/Materials/InBundle/ParticleFlames.mat
+- Assets/Materials/InBundle/ParticleDuststorm.mat
+- Assets/Mirza Beig/Particle Twister/_textures/VFX Particle Pack/particles/spritesheets/tex_vfxpp_particle_spritesheet_smoke.png
+- Assets/Materials/InBundle/pathMesh_Mat2.mat
+- Assets/Materials/InBundle/Vertical_Circle_Blocker_1_Color_2_Mat.mat
+- Assets/Models/Materials/SinglePin_HorizontalCircle_Mat.mat
+- Assets/Materials/InBundle/Vertical_Circle_Blocker_2_Color_2_Mat.mat
+- Assets/Materials/InBundle/HorizontalCircle_Mat.mat
+- Assets/Texture/InBundle/ButtonResetSprite.png
+- Assets/Materials/InBundle/ParticleSmokeBlackMobile.mat
+- Assets/Materials/InBundle/Chapter_2_Skybox.mat
+- Assets/Materials/InBundle/The_Egg_Temp.mat
+- Assets/Materials/InBundle/ParticleSmokeWhite.mat
+- Assets/Materials/InBundle/The_Bowl_Snowy_Mobile.mat
+- Assets/Materials/InBundle/ParticleSteam.mat
+Dependencies:
+- C:/wamp64/www/TheEgg/AssetBundles/Android/assetbundle_shaders
+- C:/wamp64/www/TheEgg/AssetBundles/Android/assetbundle_textures_01
+- C:/wamp64/www/TheEgg/AssetBundles/Android/assetbundle_textures_02

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1412939945
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d3646e340ae3defcd1f4d390465ff38
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3d3646e340ae3defcd1f4d390465ff38
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Texture/InBundle/Level_34_Full_Texture_NormalMap.jpg
+- Assets/Texture/InBundle/Level_35_Full_Texture_NormalMap.jpg
+- Assets/Texture/InBundle/Level_37_Full_Texture_NormalMap.jpg
+- Assets/Texture/InBundle/Level_36_Full_Texture_NormalMap.jpg
+Dependencies: []
