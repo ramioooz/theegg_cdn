@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 3355798843
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 602b5b356d9a72bebf6c1a2edc00898b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d27d605e56b00c7d193d3604b99a7461
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 602b5b356d9a72bebf6c1a2edc00898b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Texture/InBundle/Level_26_Full_Texture.jpg
+- Assets/Texture/InBundle/Level_21_Full_Texture.jpg
+- Assets/Models/InBundle/Level_23.fbx
+- Assets/Models/InBundle/Level_29.fbx
+- Assets/Materials/InBundle/Level_24_Full_Mat.mat
+- Assets/Texture/InBundle/Level_29_Full_Texture.jpg
+- Assets/Texture/InBundle/Level_22_Full_Texture.jpg
+- Assets/Materials/InBundle/Level_22_Full_Mat.mat
+- Assets/Models/InBundle/Level_25.fbx
+- Assets/Models/InBundle/Level_28.fbx
+- Assets/Texture/InBundle/Level_30_Full_Texture.jpg
+- Assets/Materials/InBundle/Level_28_Full_Mat.mat
+- Assets/Texture/InBundle/Level_23_Full_Texture_NormalMap.jpg
+- Assets/Texture/InBundle/Level_25_Full_Texture.jpg
+- Assets/Texture/InBundle/Level_24_Full_Texture.jpg
+- Assets/Materials/InBundle/Level_23_Full_Mat.mat
+- Assets/Models/InBundle/Level_26.fbx
+- Assets/Models/InBundle/Level_21.fbx
+- Assets/Materials/InBundle/Level_25_Full_Mat.mat
+- Assets/Materials/InBundle/Level_21_Full_Mat.mat
+- Assets/Materials/InBundle/Level_26_Full_Mat.mat
+- Assets/Texture/InBundle/Level_22_Full_Texture_NormalMap.jpg
+- Assets/Models/InBundle/Level_24.fbx
+- Assets/Materials/InBundle/Level_29_Full_Mat.mat
+- Assets/Texture/InBundle/Level_28_Full_Texture.jpg
+- Assets/Models/InBundle/Level_27.fbx
+- Assets/Texture/InBundle/Level_27_Full_Texture.jpg
+- Assets/Models/InBundle/Level_30.fbx
+- Assets/Materials/InBundle/Level_27_Full_Mat.mat
+- Assets/Texture/InBundle/Level_21_Full_Texture_NormalMap.jpg
+- Assets/Models/InBundle/Level_22.fbx
+- Assets/Materials/InBundle/Level_30_Full_Mat.mat
+- Assets/Texture/InBundle/Level_23_Full_Texture.jpg
+Dependencies:
+- C:/wamp64/www/TheEgg/AssetBundles/Android/assetbundle_chapter_3_assets_02
+- C:/wamp64/www/TheEgg/AssetBundles/Android/assetbundle_chapter_3_assets_03

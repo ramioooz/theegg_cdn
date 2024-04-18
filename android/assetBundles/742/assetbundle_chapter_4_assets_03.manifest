@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 3118156471
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bd18663a5fdc09221458f9ddb9cd4a42
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 722205a55e3470dd3d829d15fa492c42
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bd18663a5fdc09221458f9ddb9cd4a42
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bdd94ef0bf6c5854fb2f4499ad67d4ec, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Texture/InBundle/Level_38_Full_Texture_NormalMap.jpg
+- Assets/Prefabs/Levels_Particles/Rain_Levels_Mobile.prefab
+- Assets/Texture/InBundle/Level_39_Full_Texture_NormalMap.jpg
+- Assets/Texture/InBundle/Level_40_Full_Texture_NormalMap.jpg
+Dependencies:
+- C:/wamp64/www/TheEgg/AssetBundles/Android/assetbundle_audio_01
+- C:/wamp64/www/TheEgg/AssetBundles/Android/assetbundle_audio_02
+- C:/wamp64/www/TheEgg/AssetBundles/Android/assetbundle_materials

@@ -1,0 +1,192 @@
+ManifestFileVersion: 0
+CRC: 3352292600
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assetbundle_prefabs
+      Dependencies:
+        Dependency_0: assetbundle_textures_01
+        Dependency_1: assetbundle_models_02
+        Dependency_2: assetbundle_models_01
+        Dependency_3: assetbundle_audio_01
+        Dependency_4: assetbundle_materials
+        Dependency_5: assetbundle_animations
+        Dependency_6: assetbundle_fonts
+    Info_1:
+      Name: assetbundle_textures_01
+      Dependencies: {}
+    Info_2:
+      Name: assetbundle_models_02
+      Dependencies: {}
+    Info_3:
+      Name: assetbundle_chapter_2_assets_01
+      Dependencies:
+        Dependency_0: assetbundle_chapter_2_assets_02
+        Dependency_1: assetbundle_chapter_2_assets_03
+    Info_4:
+      Name: assetbundle_chapter_1_assets_01
+      Dependencies:
+        Dependency_0: assetbundle_textures_02
+        Dependency_1: assetbundle_materials
+        Dependency_2: assetbundle_chapter_1_assets_02
+        Dependency_3: assetbundle_chapter_1_assets_03
+    Info_5:
+      Name: assetbundle_models_01
+      Dependencies:
+        Dependency_0: assetbundle_materials
+    Info_6:
+      Name: assetbundle_audio_01
+      Dependencies: {}
+    Info_7:
+      Name: assetbundle_textures_02
+      Dependencies: {}
+    Info_8:
+      Name: assetbundle_chapter_5
+      Dependencies:
+        Dependency_0: assetbundle_prefabs
+        Dependency_1: assetbundle_models_02
+        Dependency_2: assetbundle_models_01
+        Dependency_3: assetbundle_audio_01
+        Dependency_4: assetbundle_materials
+        Dependency_5: assetbundle_chapter_5_assets_03
+        Dependency_6: assetbundle_chapter_5_assets_01
+        Dependency_7: assetbundle_audio_02
+    Info_9:
+      Name: assetbundle_materials
+      Dependencies:
+        Dependency_0: assetbundle_textures_01
+        Dependency_1: assetbundle_textures_02
+        Dependency_2: assetbundle_shaders
+    Info_10:
+      Name: assetbundle_chapter_5_assets_03
+      Dependencies:
+        Dependency_0: assetbundle_prefabs
+        Dependency_1: assetbundle_models_01
+        Dependency_2: assetbundle_audio_01
+        Dependency_3: assetbundle_materials
+        Dependency_4: assetbundle_chapter_5_assets_01
+        Dependency_5: assetbundle_audio_02
+    Info_11:
+      Name: assetbundle_chapter_3
+      Dependencies:
+        Dependency_0: assetbundle_prefabs
+        Dependency_1: assetbundle_materials
+        Dependency_2: assetbundle_chapter_3_assets_01
+        Dependency_3: assetbundle_chapter_5_assets_01
+        Dependency_4: assetbundle_chapter_3_assets_03
+    Info_12:
+      Name: assetbundle_chapter_1
+      Dependencies:
+        Dependency_0: assetbundle_prefabs
+        Dependency_1: assetbundle_models_02
+        Dependency_2: assetbundle_chapter_1_assets_01
+        Dependency_3: assetbundle_models_01
+        Dependency_4: assetbundle_audio_01
+        Dependency_5: assetbundle_materials
+        Dependency_6: assetbundle_audio_02
+    Info_13:
+      Name: assetbundle_chapter_2_assets_02
+      Dependencies: {}
+    Info_14:
+      Name: assetbundle_chapter_3_assets_01
+      Dependencies:
+        Dependency_0: assetbundle_chapter_3_assets_03
+        Dependency_1: assetbundle_chapter_3_assets_02
+    Info_15:
+      Name: assetbundle_gamecanvas_assets
+      Dependencies:
+        Dependency_0: assetbundle_textures_01
+        Dependency_1: assetbundle_materials
+        Dependency_2: assetbundle_animations
+        Dependency_3: assetbundle_fonts
+    Info_16:
+      Name: assetbundle_chapter_5_assets_01
+      Dependencies:
+        Dependency_0: assetbundle_textures_01
+        Dependency_1: assetbundle_materials
+        Dependency_2: assetbundle_chapter_5_assets_03
+        Dependency_3: assetbundle_chapter_5_assets_02
+    Info_17:
+      Name: assetbundle_chapter_4_assets_01
+      Dependencies:
+        Dependency_0: assetbundle_chapter_4_assets_03
+        Dependency_1: assetbundle_chapter_4_assets_02
+    Info_18:
+      Name: assetbundle_animations
+      Dependencies: {}
+    Info_19:
+      Name: assetbundle_chapter_4
+      Dependencies:
+        Dependency_0: assetbundle_prefabs
+        Dependency_1: assetbundle_materials
+        Dependency_2: assetbundle_chapter_4_assets_01
+        Dependency_3: assetbundle_chapter_4_assets_03
+    Info_20:
+      Name: assetbundle_audio_02
+      Dependencies: {}
+    Info_21:
+      Name: assetbundle_chapter_2
+      Dependencies:
+        Dependency_0: assetbundle_prefabs
+        Dependency_1: assetbundle_chapter_2_assets_01
+        Dependency_2: assetbundle_audio_01
+        Dependency_3: assetbundle_materials
+        Dependency_4: assetbundle_chapter_2_assets_03
+    Info_22:
+      Name: assetbundle_fonts
+      Dependencies:
+        Dependency_0: assetbundle_shaders
+    Info_23:
+      Name: assetbundle_chapter_4_assets_03
+      Dependencies:
+        Dependency_0: assetbundle_audio_01
+        Dependency_1: assetbundle_materials
+        Dependency_2: assetbundle_audio_02
+    Info_24:
+      Name: assetbundle_shaders
+      Dependencies: {}
+    Info_25:
+      Name: assetbundle_chapter_5_assets_02
+      Dependencies: {}
+    Info_26:
+      Name: assetbundle_chapter_1_assets_02
+      Dependencies: {}
+    Info_27:
+      Name: assetbundle_chapter_3_assets_03
+      Dependencies:
+        Dependency_0: assetbundle_audio_01
+        Dependency_1: assetbundle_materials
+        Dependency_2: assetbundle_audio_02
+    Info_28:
+      Name: assetbundle_chapter_1_assets_03
+      Dependencies: {}
+    Info_29:
+      Name: assetbundle_chapter_2_assets_03
+      Dependencies:
+        Dependency_0: assetbundle_audio_01
+        Dependency_1: assetbundle_materials
+        Dependency_2: assetbundle_audio_02
+    Info_30:
+      Name: assetbundle_chapter_3_assets_02
+      Dependencies: {}
+    Info_31:
+      Name: assetbundle_chapter_4_assets_02
+      Dependencies: {}
+    Info_32:
+      Name: assetbundle_worldmap
+      Dependencies:
+        Dependency_0: assetbundle_prefabs
+        Dependency_1: assetbundle_textures_01
+        Dependency_2: assetbundle_models_02
+        Dependency_3: assetbundle_chapter_1_assets_01
+        Dependency_4: assetbundle_models_01
+        Dependency_5: assetbundle_audio_01
+        Dependency_6: assetbundle_materials
+        Dependency_7: assetbundle_gamecanvas_assets
+        Dependency_8: assetbundle_animations
+        Dependency_9: assetbundle_fonts
+    Info_33:
+      Name: assetbundle_gamecanvas
+      Dependencies:
+        Dependency_0: assetbundle_prefabs
+        Dependency_1: assetbundle_gamecanvas_assets
