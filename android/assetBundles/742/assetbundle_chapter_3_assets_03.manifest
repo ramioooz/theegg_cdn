@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 923434561
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5f99047922b5d8db69ff80235218e2b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1a49037ba47ecbd443b4b51dfd196919
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d5f99047922b5d8db69ff80235218e2b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Levels_Particles/Levels_Firing_Env.prefab
+- Assets/Texture/InBundle/Level_30_Full_Texture_NormalMap.jpg
+- Assets/Texture/InBundle/Level_28_Full_Texture_NormalMap.jpg
+- Assets/Texture/InBundle/Level_29_Full_Texture_NormalMap.jpg
+Dependencies:
+- C:/wamp64/www/TheEgg/AssetBundles/Android/assetbundle_audio_01
+- C:/wamp64/www/TheEgg/AssetBundles/Android/assetbundle_audio_02
+- C:/wamp64/www/TheEgg/AssetBundles/Android/assetbundle_materials
