@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 475811516
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6165e973f22d41bf68fe11c925791354
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0df1dec30b5d061d422d3e6493d27647
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6165e973f22d41bf68fe11c925791354
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Shaders/FXWaterPro.shader
+- Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+- Assets/Shaders/Skybox Blended.shader
+Dependencies: []

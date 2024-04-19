@@ -1,0 +1,115 @@
+ManifestFileVersion: 0
+CRC: 399469402
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 82c0af7e2630e61c22ebddc4540e10df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5d8cf9d168a23b38c9007ec49c138a92
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 82c0af7e2630e61c22ebddc4540e10df
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animations/Buttons/Button__animController.controller
+- Assets/Animations/Circling_Bowl_Horizontal/CW_Horizontal_animController.controller
+- Assets/Animations/Fairy/fairyHelp_animController.controller
+- Assets/Animations/Switch_Button/Un_Pressed_anim.anim
+- Assets/Animations/Fairy/Floating_anim.anim
+- Assets/Animations/Fairy/Idle_anim.anim
+- Assets/Animations/Time_Slower/anim_animController.controller
+- Assets/Animations/Level_Select_Panel/Dialog_Idle_anim.anim
+- Assets/Animations/Box_1/Open_Box_anim.anim
+- Assets/Animations/Chapters_Titles/Slide_anim.anim
+- Assets/Animations/Fairy/Blinking_anim.anim
+- Assets/Animations/Circling_Bowl_Horizontal/Idle_anim.anim
+- Assets/Animations/Level_Select_Panel/Dialog_Fade_In_Out_anim.anim
+- Assets/Animations/Circling_Bowl_Horizontal/CW_Horizontal_With_Trigger_animController.controller
+- Assets/Animations/Toss_Egg/Toss_Egg_anim.anim
+- Assets/Animations/Store_FreeDiamonds/ClickMe_anim.anim
+- Assets/Animations/Tap_To_Toss/anim_anim.anim
+- Assets/Animations/Tornados/Background/Cylinder_animController.controller
+- Assets/Animations/Box_1/Left_Lace/UnLocked_anim.anim
+- Assets/Animations/Chapters_Titles/Animator_animController.controller
+- Assets/Animations/Tornados/Small/Zigzag_animController.controller
+- Assets/Animations/Option_Menu/Menu_Slide_In_Out_anim.anim
+- Assets/Animations/Fairy/FairyScaling_anim.anim
+- Assets/Animations/Fairy/WavingStick_animController.controller
+- Assets/Animations/Crasher_1/crasher_1_2X_animController.controller
+- Assets/Animations/Box_1/Right_Lock/Idle_anim.anim
+- Assets/Animations/Box_1/Right_Lace/Idle_anim.anim
+- Assets/Animations/Tornados/Small/Zigzag_anim.anim
+- Assets/Animations/Circling_Bowl/CCW_animController.controller
+- Assets/Animations/Circling_Bowl/Circling_anim.anim
+- Assets/Animations/Two_Bowls_Rotating/cont_animController.controller
+- Assets/Animations/Option_Menu/Options_Menu_animController.controller
+- Assets/Animations/Buttons/Button_Pressed_anim.anim
+- Assets/Animations/Box_1/Idle_anim.anim
+- Assets/Animations/Level_1/Intro_Text_animController.controller
+- Assets/Animations/Box_1/Right_Lock/LockAnimator_animController.controller
+- Assets/Animations/Fairy/Blinking_animController.controller
+- Assets/Animations/Fairy/Moving_anim.anim
+- Assets/Animations/Box_1/Right_Lock/Unlocked_anim.anim
+- Assets/Animations/Buttons/2D_Button_animController.controller
+- Assets/Animations/Box_1/BoxAnimator_animController.controller
+- Assets/Animations/Box_1/Left_Lock/LockAnimator_animController.controller
+- Assets/Animations/Fairy/Hovering_anim.anim
+- Assets/Animations/Two_Bowls_Rotating/Rotating (1)_anim.anim
+- Assets/Animations/Two_Bowls_Rotating/cont_1_animController.controller
+- Assets/Animations/Switch_Button/Pressed_anim.anim
+- Assets/Animations/Box_1/Unlock_Left_anim.anim
+- Assets/Animations/Box_1/Unlock_Right_anim.anim
+- Assets/Animations/Circling_Bowl_Horizontal/Rotating_anim.anim
+- Assets/Animations/Level_Select_Panel/Dialog_Fade_In_Out (1)_anim.anim
+- Assets/Animations/Level_Select_Panel/Level_Select_Panel_animController.controller
+- Assets/Animations/Fairy/Floating_animController.controller
+- Assets/Animations/Circling_Bowl_Horizontal/CCW_Horizontal_animController.controller
+- Assets/Animations/Splash_Screen/The_Egg_1_anim.anim
+- Assets/Animations/Splash_Screen/Smart_Apps_anim.anim
+- Assets/Animations/Tap_To_Toss/cont__animController.controller
+- Assets/Animations/Box_1/Right_Lace/Lace_Animator_animController.controller
+- Assets/Animations/Fairy/Happy_anim.anim
+- Assets/Animations/Level_1/Intro_Text_anim.anim
+- Assets/Animations/Two_Bowls_Rotating/Rotating_anim.anim
+- Assets/Animations/Fairy/WavingStick_anim.anim
+- Assets/Animations/Splash_Screen/Smart App_animController.controller
+- Assets/Animations/Fairy/Icon_animController.controller
+- Assets/Animations/Box_1/Left_Lace/Lace_Animator_animController.controller
+- Assets/Animations/Toss_Egg/Toss_Egg_animController.controller
+- Assets/Animations/Box_1/Left_Lace/Idle_anim.anim
+- Assets/Animations/Crasher_1/close_anim.anim
+- Assets/Animations/Chapters_Titles/Idle_anim.anim
+- Assets/Animations/Tornados/Background/Circling_anim.anim
+- Assets/Animations/Fairy/Hovering_animController.controller
+- Assets/Animations/Splash_Screen/Presents_anim.anim
+- Assets/Animations/Crasher_1/open_anim.anim
+- Assets/Animations/Circling_Bowl_Horizontal/Idle (1)_anim.anim
+- Assets/Animations/Tap_Hand/Tap_And_Hold_anim.anim
+- Assets/Animations/Circling_Bowl_Horizontal/CCW_Horizontal_With_Trigger_animController.controller
+- Assets/Animations/Cylinder_animController.controller
+- Assets/Animations/Buttons/Button_Normal_anim.anim
+- Assets/Animations/Intro_1_anim.anim
+- Assets/Animations/Option_Menu/Idle_anim.anim
+- Assets/Animations/Tap_Hand/Tap_anim_anim.anim
+- Assets/Animations/Crasher_1/crasher_1_animController.controller
+- Assets/Animations/Box_1/Right_Lace/UnLocked_anim.anim
+- Assets/Animations/Scene_Camera_animController.controller
+- Assets/Animations/Box_1/Left_Lock/Idle_anim.anim
+- Assets/Animations/Time_Slower/Sand_anim.anim
+- Assets/Animations/Circling_Bowl/CW__animController.controller
+- Assets/Animations/Box_1/Right_Lock/LockAnimator (1)_animController.controller
+- Assets/Animations/Tap_Hand/Tap_animController.controller
+- Assets/Animations/Splash_Screen/Presents_animController.controller
+- Assets/Animations/Splash_Screen/The_Egg_1_animController.controller
+- Assets/Animations/Box_1/Left_Lock/Unlocked_anim.anim
+- Assets/Animations/Switch_Button/cont_animController.controller
+Dependencies: []
